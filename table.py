@@ -1,10 +1,3 @@
-*******************************************************************************
-#
-# Programmer: Swarnim kathayat
-#
-# Assignment: cpFilesHWmultTable.py
-#
-#*******************************************************************************
 #input form user
 i1 = int(input("Enter the first number: "))
 i2 = int(input("Enter the first number: "))
