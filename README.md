@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swarnim Kathayat, you can call me Jenish
+- 👋 Hi, I’m Swarnim Kathayat, you can call me Jenish.
 - 👀 I’m interested in learning things and grabbing the opportunity
 - 🌱 I’m currently learning C++ as a programming language
 - 💞️ I'm currently studying at Arkansas State University
