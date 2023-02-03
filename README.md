@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ as a programming language and python.
 - 💞️ I'm currently studying at Arkansas State University.
 - 📫 You can contact me @ Jenishkathayat07@gmail.com
-- 👉 Some other places that you can find me :)
+- 👉 Some other places where you can find me :)
 - 🖤 LeetCode - https://leetcode.com/Jen9x/
 - 💚 LinkedIn - https://www.linkedin.com/in/swarnim-kathayat-2ba960231/
 
