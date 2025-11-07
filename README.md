@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Swarnim Kathayat, you can call me Jenish and my gaming name is Jen9x.
 - 👀 I’m interested in learning things and grabbing the opportunity
-- 🌱 I’m currently learning C++ as a programming language and python.
+- 🌱 I’m currently learning C++, python, Linux.
 - 💞️ I'm currently studying at Arkansas State University.
 - 📫 You can contact me @ Jenishkathayat07@gmail.com
 - 👉 Some other places where you can find me :)
