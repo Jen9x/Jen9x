@@ -187,12 +187,18 @@
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jen9x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&icon_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen9x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/Jen9x">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jen9x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&ring_color=58a6ff&icon_color=58a6ff&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Jen9x">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jen9x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jen9x&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  <a href="https://github.com/Jen9x">
+    <img src="https://streak-stats.demolab.com?user=Jen9x&theme=github-dark-blue&hide_border=true&background=0d1117" />
+  </a>
 </p>
 
 <!-- ====== ACTIVITY GRAPH ====== -->
@@ -202,7 +208,9 @@
 
 <h2>🏆 Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jen9x&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&column=7" />
+  <a href="https://github.com/Jen9x">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jen9x&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&column=7&no-bg=true" />
+  </a>
 </p>
 
 <hr/>
@@ -210,8 +218,14 @@
 <!-- ====== SNAKE ====== -->
 <h2>🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jen9x/Jen9x/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jen9x/Jen9x/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jen9x/Jen9x/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Jen9x/Jen9x/output/github-snake-dark.svg" />
+  </picture>
 </p>
+
+> ⚠️ **Note:** The snake animation requires a GitHub Actions workflow to generate. See `.github/workflows/snake.yml` in this repo.
 
 <hr/>
 
